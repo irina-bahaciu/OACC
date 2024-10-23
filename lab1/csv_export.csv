@@ -1,0 +1,6 @@
+Allocating Elements,ReqIFName,ReqIFText,requirementType,Parent,Priority,Status
+,,,,,,
+Functional,,,,,,
+  ComandaDeplasare,Comanda deplasare,Pilotul trebuie sa poata controla deplasarea Car Kit (Robot),Functional,Incepeti comanda deplasare,High,Draft
+  TransmiteComandaDeplasare,Transmite comanda deplasare,Smarthphonul trebuie sa transmita video pe baza deplasarii Car Kit (Robot),Functional,Incepeti comanda deplasare,High,Draft
+  RealizareDeplasare,Realizare deplasare,Car Kit (Robot) trebuie sa aiba abilitatea de a se deplasa,Functional,Incepeti comanda deplasare,High,Draft
